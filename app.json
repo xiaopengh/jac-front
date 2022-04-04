@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "jac-front",
+    "slug": "jac-front",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
